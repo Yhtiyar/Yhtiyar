@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhtiyar&theme=<Compact >" -->
- <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=yhtiyar&show_icons=true&count_private=true&hide=contribs,stars" />
+ <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=yhtiyar&show_icons=true&count_private=true" />
 <img height="170em" align="right" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yhtiyar&theme=radical&layout=compact" />
