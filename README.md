@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on web3 development: Ethereum smart contracts and blockchain data crawling. 
-- 🌱 I’m currently learning Rust, Ethereum.
+- 🌱 I’m currently learning Rust, Huff, foundry.
 <!--
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
